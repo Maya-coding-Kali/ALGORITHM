@@ -1,0 +1,20 @@
+Set a to 0
+set n to 101
+a= a+1
+n= n-1
+(a+n)*50
+
+
+
+set a to 0 
+set n to 0
+n+1
+for 
+    a = a+1 
+    a<100
+    a+n
+    save all the sums
+if a reaches 100 
+    n+1
+    then repeat the for loop
+    for n<100
